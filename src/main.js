@@ -1,4 +1,4 @@
-// 1. Importar todos los estilos PRIMERO
+// 1. Importar todos los estilos
 import 'bootstrap/dist/css/bootstrap.css';
 import './assets/main.css';
 
